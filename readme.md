@@ -4,7 +4,7 @@
 <!-- 
 <img src="./frontend/public/images/screens.png"> -->
 
- It is a full-featured shopping cart with PayPal & credit/debit payments.
+ It is a full-featured shopping cart withRazorpay , PayPal & credit/debit payments.
 
 ## Features
 

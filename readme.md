@@ -1,10 +1,8 @@
 # EShoppy eCommerce App
 
 > eCommerce platform built with the MERN stack & Redux.
-<!-- 
-<img src="./frontend/public/images/screens.png"> -->
 
- It is a full-featured shopping cart withRazorpay , PayPal & credit/debit payments.
+ It is a full-featured shopping cart with Razorpay , PayPal & credit/debit payments.
 
 ## Features
 
@@ -83,21 +81,4 @@ npm run data:import
 
 # Destroy data
 npm run data:destroy
-```
-
-```
-Sample User Logins
-
-admin@Gmail.com (Admin)
-123456
-
-steve@gmail.com (Customer)
-123456
-
-john@gmail.com (Customer)
-123456
-
-jane@gmail.com (Customer)
-123456
-
 ```
